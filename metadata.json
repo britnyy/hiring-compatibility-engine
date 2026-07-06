@@ -1,0 +1,6 @@
+{
+  "name": "Recruitment Compatibility Assessor",
+  "description": "An I-O Psychology backed assessment system for evaluating job candidate compatibility, culture fit, and retention risks using Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
