@@ -1,20 +1,70 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Hiring Compatibility Engine
 
-# Run and deploy your AI Studio app
+An AI-powered recruitment platform that helps founders and hiring teams evaluate candidate compatibility beyond resumes using Industrial-Organizational (I/O) Psychology, psychometric frameworks, and behavioral assessment models.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/e0b4091f-8585-4b2b-a743-c32e000ee346
+## Problem
 
-## Run Locally
+Startup hiring failures are often not competency failures.
 
-**Prerequisites:**  Node.js
+As AI makes resumes and applications increasingly similar, companies face a growing challenge in predicting which candidates will truly thrive within their teams.
 
+Common hiring mismatches include:
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- Founder ↔ Employee fit
+- Communication style
+- Ambiguity tolerance
+- Speed vs. Perfection
+- Conflict management
+- Autonomy and ownership
+- Team culture compatibility
+
+---
+
+## Solution
+
+Hiring Compatibility Engine is an AI-powered assessment platform that evaluates behavioral and organizational compatibility using evidence-informed I/O Psychology principles.
+
+Rather than focusing solely on technical qualifications, the platform helps hiring teams identify candidates who are most likely to integrate, perform, and remain successful within startup environments.
+
+---
+
+## Key Features
+
+- AI-assisted candidate compatibility assessments
+- Psychometric-based questionnaire engine
+- Founder and team compatibility evaluation
+- Behavioral insights generation
+- Evidence-based hiring recommendations
+- Modern React + TypeScript interface
+
+---
+
+## Tech Stack
+
+- React
+- TypeScript
+- Vite
+- Google AI Studio
+- Gemini API
+- Industrial-Organizational Psychology
+
+---
+
+## Getting Started
+
+```bash
+npm install
+npm run dev
+```
+
+---
+
+## Future Improvements
+
+- ATS integration
+- Candidate pipeline management
+- Team benchmarking
+- Predictive hiring analytics
+- Dashboard and reporting
