@@ -1,41 +1,43 @@
 # Hiring Compatibility Engine
 
-An AI-powered recruitment platform that helps founders and hiring teams evaluate candidate compatibility beyond resumes using Industrial-Organizational (I/O) Psychology, psychometric frameworks, and behavioral assessment models.
+An AI-powered recruitment platform that helps founders and hiring teams evaluate candidate compatibility beyond resumes using Industrial-Organizational (I/O) Psychology, psychometric assessment frameworks, and behavioral insights.
 
 ---
 
 ## Problem
 
-Startup hiring failures are often not competency failures.
+Hiring failures are often not caused by a lack of capability, but by poor compatibility between the candidate, founder, team, and working environment.
 
-As AI makes resumes and applications increasingly similar, companies face a growing challenge in predicting which candidates will truly thrive within their teams.
+As AI makes resumes look increasingly polished and similar, hiring teams need better ways to assess how candidates will actually work, adapt, communicate, and stay. Technical skills can often be learned on the job, but misalignment in work style and culture can lead to poor performance, friction, and low retention.
 
-Common hiring mismatches include:
+Common compatibility risks include:
 
-- Founder ↔ Employee fit
-- Communication style
-- Ambiguity tolerance
-- Speed vs. Perfection
-- Conflict management
-- Autonomy and ownership
-- Team culture compatibility
+- Poor person–organization fit
+- Misalignment with founder expectations
+- Communication style mismatch
+- Low tolerance for ambiguity or rapid change
+- Different preferences for autonomy, structure, and feedback
+- Conflict management differences
+- Misalignment between speed, quality, and decision-making style
+- Team culture mismatch affecting engagement and retention
 
 ---
 
 ## Solution
 
-Hiring Compatibility Engine is an AI-powered assessment platform that evaluates behavioral and organizational compatibility using evidence-informed I/O Psychology principles.
-
-Rather than focusing solely on technical qualifications, the platform helps hiring teams identify candidates who are most likely to integrate, perform, and remain successful within startup environments.
+Hiring Compatibility Engine uses AI and I/O Psychology principles to help hiring teams assess candidate fit, compare applicants, and make more evidence-based hiring decisions.
 
 ---
 
 ## Key Features
 
-- AI-assisted candidate compatibility assessments
-- Psychometric-based questionnaire engine
-- Founder and team compatibility evaluation
-- Behavioral insights generation
+- Founder requirement profiling
+- Team culture and working-style mapping
+- I/O Psychology-based compatibility assessments
+- Candidate compatibility scoring
+- Behavioral insight generation
+- Candidate pipeline management
+- Comparison of candidates across the hiring pool
 - Evidence-based hiring recommendations
 - Modern React + TypeScript interface
 
@@ -64,7 +66,7 @@ npm run dev
 ## Future Improvements
 
 - ATS integration
-- Candidate pipeline management
+- Advanced candidate pipeline analytics
 - Team benchmarking
-- Predictive hiring analytics
-- Dashboard and reporting
+- Predictive hiring and retention insights
+- Recruiter dashboard and reporting
